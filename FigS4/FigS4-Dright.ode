@@ -306,7 +306,7 @@ C_nic_nic(0)=bas_nic
 @ xhi=120
 @ ylo=0
 @ yhi=0.12
-@ METHOD=rk
+@ METHOD=rungekutta
 @ NJMP=20
 @ YP=r_dop
 done
