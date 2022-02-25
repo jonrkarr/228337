@@ -342,7 +342,7 @@ C_nic_nic(0)=bas_nic
 @ xhi=700
 @ ylo=0
 @ yhi=0.001
-@ METHOD=rk
+@ METHOD=rungekutta
 @ NJP=200
 @ YP=auxP_a7
 
