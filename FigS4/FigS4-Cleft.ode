@@ -101,7 +101,6 @@ rect_pulse(t,from,to,amp) = amp * (heav (t-from) - heav (t-to))
    aux auxI_gab=I_gab
    par w_gab=1.5 
    par I_basGab=-0.05
-   aux auxI_gab=I_gab
 
 # the presynaptic facilitation of glu input to dopamine (and GABA) neurons
 
